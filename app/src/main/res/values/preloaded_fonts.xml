@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/aladin</item>
+        <item>@font/almendra_display</item>
+        <item>@font/amita</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/arima_madurai_thin</item>
+        <item>@font/fauna_one</item>
+    </array>
+</resources>
